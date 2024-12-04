@@ -1,0 +1,8 @@
+{
+    "name": "DDS Viewer",
+    "identifier": "dds-viewer",
+    "description": "Visualize arquivos .dds DXT5 com alternância entre os canais RGB e Alpha.",
+    "type": "inline",
+    "url": "https://linkmadao.github.io/dds-crowdin-viewer/public/index.html",
+    "supportedFileFormats": [".dds"]
+}
